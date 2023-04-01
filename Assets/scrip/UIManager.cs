@@ -7,8 +7,8 @@ public class UIManager : MonoBehaviour
 {
   [SerializeField] private Text SolText;
   [SerializeField] private Text LunaText;
-  [SerializeField] private Text HolaText;
-  [SerializeField] private Text AdiosText;
+  [SerializeField] private Text TierraText;
+  [SerializeField] private Text AguaText;
   [SerializeField] private Text IdiomaText;
 
   private static UIManager instance;
@@ -29,8 +29,8 @@ public class UIManager : MonoBehaviour
   {
     SolText.text = weaponData.weaponSol;
     LunaText.text = weaponData.weaponLuna;
-    HolaText.text = weaponData.weaponHola;
-    AdiosText.text = weaponData.weaponAdios;
+    TierraText.text = weaponData.weaponTierra;
+    AguaText.text = weaponData.weaponAgua;
     IdiomaText.text = weaponData.weaponIdioma;
   }
 

@@ -9,9 +9,9 @@ public class WeaponData : ScriptableObject
 
     public string weaponLuna;
 
-    public string weaponHola;
+    public string weaponTierra;
 
-    public string weaponAdios;
+    public string weaponAgua;
 
     public string weaponIdioma;
 

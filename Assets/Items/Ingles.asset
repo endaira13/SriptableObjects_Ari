@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be13647176deb074aaffdde4ff1f436a, type: 3}
   m_Name: Ingles
   m_EditorClassIdentifier: 
-  weaponSol: Sun
-  weaponLuna: Moon
-  weaponHola: Hello
-  weaponAdios: Bye
+  weaponSol: "S\xF3l is the Norse goddess of the sun, one of the most representative
+    characteristics of S\xF3l is that it is she herself who makes the heat of the
+    star emanate, but she is not the one who gives her luminosity, but her steeds
+    do it by name Arvak and Alsvid."
+  weaponLuna: In Greek mythology, Selene is the personification of the Moon. She
+    is the daughter of the Titans Hyperion and Tia, and sister of Helios, the Sun,
+    and Eos, the Dawn. She was represented as a young and beautiful woman, traveling
+    through the sky in a silver carriage drawn by two horses.
+  weaponTierra: Tellus or Terra was a goddess who personified the Earth in Roman
+    mythology. She was sometimes called Tellus Mater or Terra Mater, Mater being
+    an honorific that was also applied to other goddesses.
+  weaponAgua: Anuket, Anaka or Anqet in Egyptian mythology was a goddess of water,
+    especially of the Aswan Falls, a region where she was especially worshipped.
   weaponIdioma: English

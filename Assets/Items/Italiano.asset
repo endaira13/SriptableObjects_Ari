@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be13647176deb074aaffdde4ff1f436a, type: 3}
+  m_Name: Italiano
+  m_EditorClassIdentifier: 
+  weaponSol: "S\xF3l \xE8 la dea norrena del sole, una delle caratteristiche pi\xF9
+    rappresentative di S\xF3l \xE8 che \xE8 lei stessa a far emanare il calore della
+    stella, ma non \xE8 lei che dona la sua luminosit\xE0, ma lo fanno i suoi destrieri
+    per nome Arvak e Alsvid."
+  weaponLuna: "Nella mitologia greca, Selene \xE8 la personificazione della Luna.
+    \xC8 la figlia dei Titani Hyperion e Tia, e sorella di Helios, il Sole, ed Eos,
+    l'Alba. Era rappresentata come una donna giovane e bella, che viaggiava nel cielo
+    su una carrozza d'argento trainata da due cavalli."
+  weaponTierra: Tellus o Terra era una dea che personificava la Terra nella mitologia
+    romana. A volte veniva chiamata Tellus Mater o Terra Mater, essendo Mater un
+    titolo onorifico applicato anche ad altre dee.
+  weaponAgua: Anuket, Anaka o Anqet nella mitologia egizia era una dea dell'acqua,
+    in particolare delle cascate di Assuan, una regione dove era particolarmente
+    venerata.
+  weaponIdioma: Italiano

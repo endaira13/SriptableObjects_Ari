@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be13647176deb074aaffdde4ff1f436a, type: 3}
   m_Name: Noruego
   m_EditorClassIdentifier: 
-  weaponSol: Sol
-  weaponLuna: Mane
-  weaponHola: Hallo
-  weaponAdios: Ha det
+  weaponSol: "S\xF3l er den norr\xF8ne solgudinnen, en av de mest representative
+    egenskapene til S\xF3l er at det er hun selv som f\xE5r varmen fra stjernen til
+    \xE5 str\xF8mme ut, men hun er ikke den som gir henne lysstyrke, men hestene
+    hennes gj\xF8r det ved navn Arvak og Alsvid."
+  weaponLuna: "I gresk mytologi er Selene personifiseringen av m\xE5nen. Hun er datteren
+    til Titans Hyperion og Tia, og s\xF8steren til Helios, the Sun og Eos, the Dawn.
+    Hun ble representert som en ung og vakker kvinne, som reiste gjennom himmelen
+    i en s\xF8lvvogn trukket av to hester."
+  weaponTierra: "Tellus eller Terra var en gudinne som personifiserte jorden i romersk
+    mytologi. Hun ble noen ganger kalt Tellus Mater eller Terra Mater, Mater var
+    en \xE6resbevisning som ogs\xE5 ble brukt p\xE5 andre gudinner."
+  weaponAgua: Anuket, Anaka eller Anqet i egyptisk mytologi var en gudinne for vann,
+    spesielt av Aswan Falls, en region hvor hun ble spesielt tilbedt.
   weaponIdioma: Norsk
